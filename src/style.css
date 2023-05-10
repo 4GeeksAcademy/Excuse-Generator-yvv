@@ -1,1 +1,25 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+#title {
+  text-align: center;
+  font-weight: 900;
+  font-size: x-large;
+}
+
+button {
+  margin-left: 50%;
+  transform: translate(-50%, 0);
+  margin-top: 25px;
+  border: solid;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(15, 215, 182);
+}
+
+#excuse {
+  text-align: center;
+}
+
+body {
+  background-color: aqua;
+}
